@@ -19,3 +19,4 @@ As part of the bonus portion of this homework assignment, the script also identi
 ### Submission Requirements
 * VBA Script(s) required to analyze stock data
 * Screenshots of the results for each year in the provided dataset.
+* As per instructor's instructions, macro-enabled workbook with data and script has been included.
